@@ -5,7 +5,7 @@ def test_drive():
    turtle.forward(100)
    #turtle.left(87)
    turtle.setheading(127)
-   turtle.up() 
+   #turtle.up() 
    turtle.goto(50, 50)
    turtle.down()
    turtle.home()
@@ -14,5 +14,6 @@ def test_drive():
 
 def main():
    test_drive()
+   input()
 
 main()
