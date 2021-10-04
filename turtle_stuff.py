@@ -2,7 +2,7 @@ import turtle
 
 
 def test_drive():
-# some string doc. more doc
+# some string doc.
    turtle.forward(100)
    #turtle.left(87)
    turtle.setheading(127)
